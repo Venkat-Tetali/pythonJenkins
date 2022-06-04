@@ -1,0 +1,5 @@
+jenkinsenv/
+**/__pycache__/
+*.xml
+.vscode/
+.pytest_cache/
